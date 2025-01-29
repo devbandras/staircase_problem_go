@@ -157,7 +157,7 @@ func countWays(stairCount int) int {
 }
 
 // -----------------------------------------------------------------------------
-// A függvény, amely kiszámítja és kiírja az összes lehetséges utat a lépcső tetejére
+// A függvény kiszámítja és kiírja az összes lehetséges utat a lépcső tetejére
 // Paraméterek:
 // - stairCount: egy egész szám, amely a lépcsők számát adja meg.
 // - path: egész számok szelete, amely a lépcsőfokok aktuális útvonalát jelöli.
