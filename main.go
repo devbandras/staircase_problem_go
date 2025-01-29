@@ -193,7 +193,7 @@ func printSolution(stairCount int) {
 }
 
 // -----------------------------------------------------------------------------
-
+// A program belépési pontja
 func main() {
 	mainMenu()
 }
